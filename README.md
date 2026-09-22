@@ -165,7 +165,7 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/PathlavathArunNaik/Retail-Demand-Forecasting-Inventory-Planning
+git clone [ https://github.com/PathlavathArunNaik/Retail-Demand-Forecasting-Inventory-Planning ]
 cd Retail-Sales-Forecasting-Inventory-Optimization
 ```
 
