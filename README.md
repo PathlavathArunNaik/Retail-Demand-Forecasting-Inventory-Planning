@@ -165,7 +165,7 @@ Retail-Sales-Forecasting-Inventory-Optimization/
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/Anupam-Santra/Retail-Sales-Forecasting-Inventory-Optimization.git
+git clone https://github.com/Anupam-Santra/Retail-Sales-Forecasting-Inventory-Optimization.git](https://github.com/PathlavathArunNaik/Retail-Demand-Forecasting-Inventory-Planning
 cd Retail-Sales-Forecasting-Inventory-Optimization
 ```
 
@@ -358,16 +358,11 @@ Through this project, you will learn:
 ## 👤 Author
 
 **[Pathlavath Arun Nayak]**
-- GitHub: [@Anupam-Santra](https://github.com/Anupam-Santra)
+- GitHub: [@PathlavathArunNayak](https://github.com/PathlavathArunNaik)
 - LinkedIn: [Anupam Santra](https://www.linkedin.com/in/anupam-santra-615832277/)
-- Email: anupamsantra2003@gmail.com
+- Email: 
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-*Built as a portfolio project to demonstrate Data Science, Machine Learning, and Business Intelligence skills for Data Analyst / Business Analyst / Data Scientist roles.*
+*Built as a portfolio project to demonstrate  skills for Data Analyst.*
