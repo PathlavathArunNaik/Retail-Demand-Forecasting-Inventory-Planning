@@ -345,24 +345,132 @@ Through this project, you will learn:
 - Professional GitHub project organization
 
 ---
+# 🛍️ Black Friday Sales Data Analysis
 
-## 💼 Resume / Interview
+An exploratory **Black Friday retail sales analysis** project using Python and Pandas to understand customer purchasing behavior, product categories, demographics, and spending patterns.
 
-**Resume Bullet Points:**
-- Built end-to-end Retail Sales Forecasting system using Random Forest Regressor achieving ~90% R² on temporal test split across 30 products and 5 stores
-- Engineered 15+ features including lag variables, rolling statistics, and seasonal indicators from 2M+ row synthetic dataset
-- Implemented inventory optimization engine with Safety Stock, Reorder Point, and EOQ calculations generating automated restocking recommendations
+## 📌 Project Overview
 
----
+This project analyzes Black Friday customer transaction data to identify patterns in **purchase behavior and customer spending**.
 
-## 👤 Author
+The analysis focuses on demographic and product-related factors that influence purchasing decisions.
 
-**[Pathlavath Arun Nayak]**
-- GitHub: [@PathlavathArunNayak](https://github.com/PathlavathArunNaik)
-- LinkedIn: [Anupam Santra](https://www.linkedin.com/in/anupam-santra-615832277/)
-- Email: 
+## 🎯 Objectives
 
----
+* Analyze customer purchasing behavior
+* Understand spending patterns across different customer segments
+* Compare purchasing behavior by gender and age
+* Analyze product category performance
+* Identify high-value customer segments
+* Generate actionable insights from retail sales data
 
+## 🛠️ Technologies Used
 
-*Built as a portfolio project to demonstrate  skills for Data Analyst.*
+* 🐍 **Python**
+* 📊 **Pandas**
+* 🔢 **NumPy**
+* 📈 **Matplotlib**
+* 📉 **Seaborn**
+* 📓 **Jupyter Notebook**
+
+## 🔄 Project Workflow
+
+```text
+Black Friday Dataset
+        ↓
+Data Loading
+        ↓
+Data Cleaning
+        ↓
+Exploratory Data Analysis
+        ↓
+Customer & Product Analysis
+        ↓
+Data Visualization
+        ↓
+Business Insights
+```
+
+## 📊 Analysis Performed
+
+### 👥 Customer Demographics
+
+Analysis of purchasing behavior based on:
+
+* Gender
+* Age groups
+* Marital status
+* Occupation
+* City category
+
+### 🛒 Product Analysis
+
+Analysis of:
+
+* Product categories
+* Product-wise purchases
+* Product purchasing patterns
+* Customer preferences
+
+### 💰 Purchase Analysis
+
+Examines customer spending and purchase behavior to understand:
+
+* High-value customer segments
+* Spending differences across demographics
+* Purchasing patterns across customer groups
+
+## 📈 Key Insights
+
+The analysis helps identify:
+
+* Customer segments with different purchasing behaviors
+* Differences in spending across demographic groups
+* Popular product categories
+* Product purchasing patterns
+* Factors associated with higher purchase amounts
+
+## 📂 Repository Structure
+
+```text
+Black-Friday-Sales-Data-Analysis/
+│
+├── Black Friday Sales Data Analysis.ipynb
+├── BlackFriday.csv
+└── README.md
+```
+
+## 🚀 Future Improvements
+
+This project can be extended with:
+
+* 📊 Interactive Power BI dashboards
+* 🤖 Machine Learning for purchase prediction
+* 🎯 Customer segmentation using clustering
+* 📈 RFM customer analysis
+* 🔮 Purchase amount prediction
+* 📱 Interactive web-based analytics dashboard
+
+## 🧠 Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Statistical Analysis
+* Customer Segmentation
+* Business Analytics
+* Python & Pandas
+
+## 👨‍💻 Author
+
+### **Pathlavath Arun Naik**
+
+**B.Tech Biotechnology | IIT Madras**
+
+Interested in **Data Analytics, Data Science, AI & Machine Learning**.
+
+### 🔗 Connect With Me
+
+* 📧 **Gmail ID:** [arunnaik6616@gmail.com](mailto:arunnaik6616@gmail.com)
+* 💼 **LinkedIn:** [Pathlavath Arun Naik](https://www.linkedin.com/in/pathlavath-arun-naik)
+* 💻 **GitHub:** [PathlavathArunNaik](https://github.com/PathlavathArunNaik)
